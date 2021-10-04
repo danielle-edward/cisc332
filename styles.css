@@ -1,0 +1,157 @@
+a:link, a:visited {
+  margin-top: 2%;
+  margin-left: 1%;
+  background-color: #E26D5A;
+  color: white;
+  padding: 25px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #d65e4b;
+}
+
+body{
+  overflow-y: scroll;
+}
+
+.subSearchBar{
+  border: 2px solid #c7c7c7;
+  width: 40%;
+  height: 25px;
+  font-size: 17px;
+}
+
+.searchBar{
+  border: 2px solid #c7c7c7;
+  width: 50%;
+  height: 35px;
+  font-size: 20px;
+}
+
+#title{
+  font-size: 25px;
+  color: #666666;
+}
+
+#animalsTitle{
+  font-size: 21px;
+  color: #666666;
+}
+
+.adoptionLabel{
+  color: #666666;
+  font-size: 21px;
+}
+
+.adoptionInput{
+  width: 35%;
+  font-size: 21px;
+  color: #616161;
+  margin-bottom: 2%;
+}
+
+.animal{
+  border: 2px solid #7bb3ab;
+  color: #595959;
+}
+
+#a_id{
+  font-size: 25px;
+}
+.subInfo{
+  font-size: 15px;
+}
+
+#submitAdopt{
+  width: 50%;
+  height: 60px;
+  text-align: center;
+  background-color: #8AA2A9;
+  color: white;
+  border: none;
+  font-size: 26px;
+}
+
+#submitAdopt:hover{
+  background-color: #F4A259;
+}
+
+.donorInfo{
+  margin-top: 2%;
+  border: 3px solid #7bb3ab;
+  color: #595959;
+  width: 75%;
+}
+
+.orgInfo{
+  margin-top: 2%;
+  border: 3px solid #7bb3ab;
+  color: #595959;
+  width: 75%;
+}
+
+#money{
+  font-size:25px;
+}
+
+#noDonation{
+  font-size:21px;
+}
+
+#donorName{
+  font-size: 25px;
+}
+
+#totalAmount{
+  font-size: 22px
+}
+
+.donorOrg{
+  font-size: 15px;
+}
+
+.driver{
+  margin-top: 2%;
+  border: 2px solid #7bb3ab;
+  color: #595959;
+}
+
+.driverTitle{
+  font-size: 25px;
+  color: #666666;
+  text-decoration: underline;
+}
+
+.name{
+  font-size: 21px;
+  color: #666666;
+}
+
+.org{
+  font-size: 21px;
+  color: #666666;
+}
+
+.plate{
+  font-size: 17px;
+  color: #666666;
+}
+
+.license{
+  font-size: 17px;
+  color: #666666;
+}
+
+#rescued{
+  font-size: 17px;
+  color: #666666;
+}
+
+#congrats{
+  font-size: 27px;
+  color: #666666;
+  margin-top: 10%;
+}
